@@ -1,6 +1,12 @@
 [package]
 name = "luabins"
 version = "0.1.0"
+description = "A pure Rust implementation of the luabins format."
+repository = "https://github.com/TannerRogalsky/luabins"
+homepage = "https://github.com/TannerRogalsky/luabins"
+license = "MIT"
+license-file = "LICENSE.txt"
+readme = "README.md"
 edition = "2018"
 
 [dependencies]
