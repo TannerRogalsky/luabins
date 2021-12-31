@@ -1,6 +1,6 @@
 [package]
 name = "luabins"
-version = "0.1.0"
+version = "0.1.1-alpha.0"
 description = "A pure Rust implementation of the luabins format."
 repository = "https://github.com/TannerRogalsky/luabins"
 homepage = "https://github.com/TannerRogalsky/luabins"
